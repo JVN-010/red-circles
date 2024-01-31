@@ -1,0 +1,9 @@
+.circle1 {
+  margin: 0;
+  padding: 0;
+  background-image: repeating-radial-gradient(red, green, yellow);
+  border: 2px dotted darkgray;
+  border-radius: 50%;
+  height: 400px;
+  width: 400px;
+}
